@@ -2,6 +2,9 @@
 title: Testpage title
 ---
 
+[Link Verkaufschancen](./Verkauf/Verkaufschancen.md)
+[Link Angebote](./Verkauf/Angebote.md)
+
 # Your Markdown Content Starts Here
 - **Verkaufschance**
 Die Verkaufschance ist die Klammer um den gesamten Verkaufsprozess - vom Erstkontakt bis zum Abschluss. Die VC kann angelegt werden, um das Budget des Kunden zu definieren. Ein VC Modul ist für Unternehmen empfehlenswert, wenn diese einen langen Vertriebszyklus haben (mehr als 5 Monate bis zum Verkaufsabschluss).
