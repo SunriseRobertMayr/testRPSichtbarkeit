@@ -3,9 +3,9 @@ title: Startseite Verkauf
 has_children: true
 ---
 
-[Link Verkaufschancen](./Verkauf/Verkaufschancen.md)
+[Link Verkaufschancen](./Verkaufschancen.md)
 
-[Link Angebote](./Verkauf/Angebote.md)
+[Link Angebote](./Angebote.md)
 
 # Your Markdown Content Starts Here
 - **Verkaufschance**
