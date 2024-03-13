@@ -1,5 +1,5 @@
 ---
-title: Startseite Verkauf
+title: Verkauf
 has_children: true
 nav_order: 2
 ---
