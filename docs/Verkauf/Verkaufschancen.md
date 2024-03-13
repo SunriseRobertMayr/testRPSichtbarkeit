@@ -1,5 +1,6 @@
 ---
 parent: Verkauf
+nav_order: 2
 ---
 
 # Verkaufschancen
