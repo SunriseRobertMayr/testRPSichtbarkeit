@@ -1,6 +1,7 @@
 ---
 title: Startseite Verkauf
 has_children: true
+nav_order: 1
 ---
 
 [Link Verkaufschancen](./Verkaufschancen.md)
