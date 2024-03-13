@@ -1,5 +1,6 @@
 ---
 title: Testpage title
+has_children: true
 ---
 
 [Link Verkaufschancen](./Verkauf/Verkaufschancen.md)
