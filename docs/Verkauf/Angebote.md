@@ -1,6 +1,7 @@
 ---
 parent: Verkauf
 nav_order: 3
+has_children: true
 ---
 
 # Angebote
